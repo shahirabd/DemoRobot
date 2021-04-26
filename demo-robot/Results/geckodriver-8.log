@@ -1,0 +1,11 @@
+1619331589273	geckodriver	INFO	Listening on 127.0.0.1:57942
+1619331592354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nurul\\AppData\\Local\\Temp\\rust_mozprofileKirmry"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619331598198	Marionette	INFO	Listening on port 57951
+1619331598997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619331601191	Marionette	INFO	Stopped listening on port 57951
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+console.error: SearchService: "maybeReloadEngines failed" ({})
